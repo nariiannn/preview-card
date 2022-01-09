@@ -1,0 +1,112 @@
+body {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  background-color: hsl(217, 54%, 11%);
+  margin-bottom: 20px;
+
+}
+
+.content {
+  border-radius: 20px;
+  width: 280px;
+  height: 450px;
+  position: absolute;
+  left: 520px;
+  top: 80px;
+  background-color: hsl(216, 50%, 16%);
+  padding-bottom: 20px;
+  box-shadow: 0px 15px 20px 5px ;
+}
+
+img {
+  height: 240px;
+  width: 230px;
+  position: relative;
+  left: 25px;
+  top: 25px;
+  border-radius: 5px;
+}
+
+h3 {
+  color: hsl(0, 0%, 100%);
+  margin-left: 10px;
+  position: relative;
+  top: 10px;
+  left: 15px;
+  line-height: 2;
+}
+
+p {
+  position: relative;
+  font-size: 14px;
+  left: 15px;
+  margin-left: 10px;
+  color: hsl(215, 51%, 70%);
+}
+
+
+hr {
+  margin: 0;
+  width: 225px;
+  height: 2px;
+  border-style: solid none none;
+  color: hsl(215, 32%, 27%);
+  position: relative;
+  left: 25px;
+
+
+
+}
+
+.value {
+  display: inline-block;
+  color: hsl(178, 100%, 50%);
+
+  margin-left: 30px;
+
+
+}
+
+.etherium {
+  position: relative;
+  right: 70px;
+  top: 3px;
+}
+
+.time-left {
+  display: inline;
+  position: relative;
+  left: 40px;
+}
+
+.clock {
+  position: relative;
+  left: 50px;
+  top: 4px;
+}
+
+.avatar {
+  height: 25px;
+  width: 25px;
+  border: solid;
+  border-radius: 30px;
+  color: hsl(0, 0%, 100%);
+  border-width: 1px;
+  position: relative;
+  top: 10px;
+}
+
+.creator {
+position: relative;
+left: 50px;
+bottom: 30px;
+}
+
+span {
+  color: hsl(0, 0%, 100%);
+}
+
+.attribution {
+  display: none;
+}
